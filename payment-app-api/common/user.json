@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "I'm a Senior Developer",
+        "email": "user1@test.com",
+        "password": "123456",
+        "token": "676cfd34-e706-4cce-87ca-97f947c43bd4"
+    },
+    {
+        "id": "2",
+        "name": "I'm a Senior Full Stack Developer",
+        "email": "user2@test.com",
+        "password": "123456",
+        "token": "2f403433-ba0b-4ce9-be02-d1cf4ad6f453"
+    }
+]
